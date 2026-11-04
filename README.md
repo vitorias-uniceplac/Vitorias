@@ -54,35 +54,19 @@ Muitas usuárias podem estar sob vigilância de quem as agride. Por isso o proje
 
 ## 📱 Telas
 
-<sub>Protótipo de alta fidelidade desenhado no Figma. As telas já implementadas estão marcadas no [roadmap](#%EF%B8%8F-roadmap).</sub>
+<sub>Protótipo de alta fidelidade desenhado no Figma. As telas já implementadas estão marcadas no roadmap.</sub>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="docs/screens/abertura.png" width="180" alt="Abertura"/><br/><sub><b>Abertura</b></sub></td>
-    <td align="center"><img src="docs/screens/home.png" width="180" alt="Home"/><br/><sub><b>Home</b></sub></td>
-    <td align="center"><img src="docs/screens/emergencia.png" width="180" alt="Emergência"/><br/><sub><b>Emergência</b></sub></td>
-    <td align="center"><img src="docs/screens/denuncia.png" width="180" alt="Denúncia"/><br/><sub><b>Denúncia</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/screens/informacoes-tipos.png" width="180" alt="Tipos de violência"/><br/><sub><b>Tipos de violência</b></sub></td>
-    <td align="center"><img src="docs/screens/informacoes-leis.png" width="180" alt="Direitos e leis"/><br/><sub><b>Direitos e leis</b></sub></td>
-    <td align="center"><img src="docs/screens/ajustes.png" width="180" alt="Ajustes"/><br/><sub><b>Ajustes</b></sub></td>
-    <td align="center"><img src="docs/screens/login-admin.png" width="180" alt="Acesso restrito"/><br/><sub><b>Acesso restrito</b></sub></td>
-  </tr>
-</table>
+<p align="center"><img src="docs/showcase-usuaria.png" width="100%" alt="Jornada da usuária"/></p>
+
+<p align="center"><img src="docs/showcase-informacao.png" width="100%" alt="Informação e Direitos"/></p>
 
 <details>
-<summary><b>🛠️ Ver telas da área administrativa</b></summary>
+<summary><b>Ver telas da área administrativa</b></summary>
 <br/>
-<p align="center">
-  <img src="docs/screens/admin-leis.png" width="180" alt="Administração de leis"/>
-  &nbsp;&nbsp;
-  <img src="docs/screens/editar-lei.png" width="180" alt="Editar lei"/>
-</p>
+<p align="center"><img src="docs/showcase-admin.png" width="100%" alt="Área administrativa"/></p>
 </details>
 
 <br/>
-
 ## 🧭 Fluxo de navegação
 
 ```mermaid
@@ -239,7 +223,7 @@ Tons de roxo e malva, associados ao **Agosto Lilás** e à luta pelo fim da viol
 **Pré-requisitos:** Android Studio atualizado e um emulador ou aparelho com Android 7.0 (API 24) ou superior.
 
 ```bash
-git clone https://github.com/MatheusMatiasCoutinho/Vitorias.git
+git clone https://github.com/vitorias-uniceplac/Vitorias.git
 ```
 
 1. No Android Studio: **File → Open** e selecione a pasta clonada.
@@ -292,21 +276,18 @@ gitGraph
 
 ## 👥 Equipe
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/MatheusMatiasCoutinho">
-        <img src="https://github.com/MatheusMatiasCoutinho.png" width="90" alt="Matheus Matias Coutinho"/><br/>
-        <sub><b>Matheus Matias Coutinho</b></sub>
-      </a><br/>
-      <sub>Android · UI/UX</sub>
-    </td>
-    <!-- Para adicionar um integrante: copie o bloco <td> acima e troque o usuário do GitHub -->
-  </tr>
-</table>
+| Integrante | Papel |
+|---|---|
+| Gabriel da Costa Vieira | Gerente de Projeto |
+| [Matheus Matias Coutinho](https://github.com/MatheusMatiasCoutinho) | Tech Lead · Desenvolvedor Android · UI/UX |
+| Vitória Emanuela da Silva Arfre Lopes | Desenvolvedora |
+| Isaac dos Santos do Amaral | Analista de Requisitos |
+| Thalita Kamille Soares Veras | Analista de Requisitos |
+| Claudio Manoel Silva Dourado Morais | Tester |
+
+**Orientador:** Prof. Romulo Valadares · Projeto Integrador de Desenvolvimento Mobile
 
 <br/>
-
 ## 📄 Licença
 
 Distribuído sob a licença **MIT**. Veja [LICENSE](LICENSE).
